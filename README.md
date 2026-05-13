@@ -1,8 +1,7 @@
-# simulation_of_linear_regression_in_Python
 
-# Local Linear Regression Simulation Project
+# Local Linear Regression Simulation In Python
 
-This project explores the performance and inherent limitations of **Linear Regression** when applied to non-linear growth functions, specifically the exponential function $f(x) = e^{2x}$. It demonstrates how local linear approximations can be used to model complex curves at a high computational cost.
+This program explores the performance and inherent limitations of **Linear Regression** when applied to non-linear growth functions, specifically the exponential function $f(x) = e^{2x}$. It demonstrates how local linear approximations can be used to model complex curves at a high computational cost.
 
 ## 1. Experimental Background
 In standard linear regression, the model attempts to find a global best-fit line:
